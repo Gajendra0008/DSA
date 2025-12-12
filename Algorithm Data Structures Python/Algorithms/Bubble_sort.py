@@ -1,12 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 22 17:45:47 2017
-@author: Tirthajyoti Sarkar
-Simple Bubble sort with counter for number of swap operations
-Accepts user input on minimum and maximum bound of the array and the size of the array
-"""
-
-import random
 
 def bubble_sort(array):
     n = len(array)
