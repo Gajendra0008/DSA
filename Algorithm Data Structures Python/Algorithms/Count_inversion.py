@@ -19,13 +19,12 @@ def merge_count_SplitInv(L1,L2):
             L1.pop(0)
         else:
             # Append to the result list
-            result.append(L2[0])
-            #print("Result:",result)
-            # Pop the first element of the list
-            L2.pop(0)
-            # CRUX OF THE ALGORITHM: When we copy over from L2, we increment 
-            #count by the number of elements REMAINING in L1 i.e. length of L1 because
-            # the length is dynamically modified by popping the first element out whenever 
+            kjbvdflk;kfd
+sdkjbslkjlbsv
+sbkjvbvkjlsklbvs
+kjbscbjlslbs
+kjbsbkjsblclb
+ing the first element out whenever 
             # we copy over from L1
             count+=len(L1)
     # Now checking which input list has run out of element.
